@@ -1,9 +1,5 @@
 # Pizza-Sales-Report
 
-![My Image](![pizza](https://github.com/user-attachments/assets/26ffe460-6634-4c05-ac1c-5eb9f2b2b4a4)
-)
-
-
 ## Project Overview
 This data analysis project focuses on evaluating a Pizza Hut's sales performance throughout 2015. By examining different aspects of the sales data, the goal is to uncover trends, offer data-driven recommendations, and gain a more comprehensive understanding of the shop's overall performance.
 
