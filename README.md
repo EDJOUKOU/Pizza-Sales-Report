@@ -1,6 +1,7 @@
 # Pizza-Sales-Report
 
-![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fpizza&psig=AOvVaw1ZkDKXEOFnJg3vXZW-4AWI&ust=1729181646654000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi4zcKmk4kDFQAAAAAdAAAAABAE)
+![My Image](![pizza](https://github.com/user-attachments/assets/26ffe460-6634-4c05-ac1c-5eb9f2b2b4a4)
+)
 
 
 ## Project Overview
