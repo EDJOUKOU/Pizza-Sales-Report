@@ -43,6 +43,8 @@ it has been performed on jupyter notebook, please check uploaded the pizzahut fi
 4. The first day of each month was identified as the peak day for orders.  
 5. The busiest hours were found to be between 11:00 AM and 12:00 PM, and from 5:00 PM to 6:00 PM.  
 
+<img width="623" alt="pizza44" src="https://github.com/user-attachments/assets/969608ee-c684-49a7-a44a-15e52833e102">
+
 ## Recommendations
 Based on the analysis, we recommend the following actions:
 Based on the sales performance data, here are a few recommendations to enhance business growth:
